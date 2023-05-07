@@ -1,0 +1,15 @@
+.rc-slider-track{
+    background-color: #0d0887;
+}
+.rc-slider-dot-active{
+    border-color: #0d0887;
+}
+.rc-slider-handle{
+    background-color: #0d0887;
+}
+.accordion-button{
+    background-color: #caf4fa;
+    color: #0d0887;
+    border-color: #0d0887;
+    height: 20px;
+}
